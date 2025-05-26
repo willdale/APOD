@@ -31,3 +31,14 @@ The accessibility is relatively basic and works for VoiceOver, DynamicType, and 
 - Custom navigation for iPads on iOS 16 and 17; iOS 18 defaults to a new navigation style as is.
 - Localisation could be added through a Strings Catalogue.
 - More tests should be written
+
+## Images
+Light | Dark
+:-------------------------:|:-------------------------:
+![light](https://github.com/user-attachments/assets/c69919ca-09c3-4251-af43-381077ead3f3) | ![dark](https://github.com/user-attachments/assets/0091f01e-1df0-415a-9a6e-6c9f9ecbb6d8)
+Calendar | Large Type
+![calendar](https://github.com/user-attachments/assets/00878fd4-2ecf-4cda-a1cb-3758a364c6e5) | ![large](https://github.com/user-attachments/assets/6d1b74c1-2cc1-4a85-8110-cd874547a759)
+
+iPad
+:-------------------------:
+![iPad](https://github.com/user-attachments/assets/b79adc30-e204-4a02-8f10-34ec8d651598)
