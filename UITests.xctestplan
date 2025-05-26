@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "4FFE2A2F-46A4-48C6-8997-DBD081611EBB",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:APOD.xcodeproj",
+        "identifier" : "6CED14DD2DDF2F5E006EE0E5",
+        "name" : "APODUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

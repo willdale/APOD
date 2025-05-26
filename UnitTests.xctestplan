@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "E2576367-F9E7-4405-8D7A-C85017EADD07",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:APOD.xcodeproj",
+        "identifier" : "6CED14D32DDF2F5E006EE0E5",
+        "name" : "APODTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/Networking",
+        "identifier" : "NetworkingTests",
+        "name" : "NetworkingTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/Library",
+        "identifier" : "LibraryTests",
+        "name" : "LibraryTests"
+      }
+    }
+  ],
+  "version" : 1
+}
